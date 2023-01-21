@@ -14,3 +14,10 @@ The dataset provides information about online orders with order id, category, su
 3. What is the average profit margins?
 4. What region has the highest sales?
 5. What steps should marketing department take in the future to increase sales?
+
+## Tools used during analysis
+1. Excel basic functions (Calculation, YEAR, MONTH, TEXT) to extract data for analysis preparation
+2. Pivot Tables and Pivot Graphs to prepare reports and create breakdowns
+3. Pivot Graphs for single graphs
+4. Slicers with Macros to create interactive dashboard
+
