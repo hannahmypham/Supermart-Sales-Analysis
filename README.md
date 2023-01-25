@@ -31,4 +31,5 @@ The dataset provides information about online orders with order id, category, su
 2. Pivot Tables and Pivot Graphs to prepare reports and create breakdowns
 3. Pivot Graphs for single graphs
 4. Slicers with Macros to create interactive dashboard
+5. Tableau bar charts, tables, color functions to highlight highest sales
 
