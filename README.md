@@ -2,7 +2,7 @@
 [Tableau dashboard for analysis](https://public.tableau.com/app/profile/hannah.pham.analysis/viz/SupermartGrocerySales_16739374564640/Dashboard1)
 
 ## About the project
-With the signigicant increase of inflation, groceries's prices have also been rising quickly. I decided to pick a grocery store to analyze their sales in 4 years. 
+With the significant increase of inflation, groceries's prices have also been rising quickly. I decided to pick a grocery store to analyze their sales in 4 years. 
 
 ## About the dataset
 The dataset is not based on actual sales of Supermart, but is used only for the purpose for analysis. 
