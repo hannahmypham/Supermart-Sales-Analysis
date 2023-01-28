@@ -16,7 +16,7 @@ The dataset provides information about online orders with order id, category, su
 5. What steps should marketing department take in the future to increase sales?
 
 ## Key takeaway (Answers to questions 1-4)
-1. From 2015-2018, 2017 and 2018 sales exeeded the average sales of those 4 year. Sales in 2018 increased by 28.55% relative to 2017. Supermart's sales have drops in the first quarter of the year (especially January and February) and peaks in the last quarter of the year. This could be due to holidays shopping demands. 
+1. From 2015-2018, 2017 and 2018 sales exeeded the average sales of those 4 year. Sales in 2018 increased by 30.5% relative to 2017. Supermart's sales have drops in the first quarter of the year (especially January and February) and peaks in the last quarter of the year. This could be due to holidays shopping demands. 
 2. Eggs, Meat and Fish has the highest sales among all categories. However, Snacks brings the highest profit among all. In subcategories, health drinks and soft drinks have highest sales and profits. 
 3. Average profit margin is around 25%. 
 4. West region has the highest sales while North has the least sales. West's sales is 3,826% higher than North region sales. 
