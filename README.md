@@ -22,7 +22,7 @@ The dataset provides information about online orders with order id, category, su
 4. West region has the highest sales while North has the least sales. West's sales is 3,826% higher than North region sales. 
 
 ## Recommendation (Answer to question 5)
-1. Supermart sales have increased significantly in 2017 and 2018. The company can futher expand sales by focus on north region's marketing strategies. It is recommended that companies investigate reasons why North perform poorly and provides solutions accordingly. 
+1. Supermart sales have increased significantly in 2017 and 2018. The company can further expand sales by focus on north region's marketing strategies. It is recommended that companies investigate reasons why North perform poorly and provides solutions accordingly. 
 2. Company can also avoid stocking too much inventory in the first quarter and prepare for higher demand for the end of the year (September, November, and December).
 3. Even though Health drinks and Soft drinks bring most sales and profits, animal products like Eggs, Meat and Fish still bring the highest totals sales and Snacks has highest profits. Company should still focus on those two categories while stocking the inventories. For futher analysis, number of units sold will provide additional information. 
 
